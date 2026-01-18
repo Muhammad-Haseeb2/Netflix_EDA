@@ -74,7 +74,7 @@ This notebook is designed as a **beginner-friendly EDA project**, suitable for a
 ## How to Run the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/netflix-eda.git
+   git clone https://github.com/hsxeeb1/Netflix-EDA.git
    ```
 2. Navigate to the project directory
 3. Open the notebook:
@@ -93,7 +93,7 @@ This notebook is designed as a **beginner-friendly EDA project**, suitable for a
 ---
 
 ## Author
-**Haseeb Malik**  
+**Muhammad Haseeb**  
 Bachelor’s Student – Artificial Intelligence
 
 ---
